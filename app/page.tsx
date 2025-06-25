@@ -30,7 +30,7 @@ import { useTheme } from "next-themes"
 import imageCompression from "browser-image-compression"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import Link from 'next/link';
-import { GoogleAnalytics } from '@next/third-parties/google'
+
 
 
 
@@ -431,7 +431,7 @@ export default function CompresslyApp() {
   return (
     <div className="min-h-screen bg-background">
       
-    <GoogleAnalytics gaId="G-89KJF31WCY" />
+
       {/* Header */}
       <header className="border-b">
         <div className="container mx-auto px-10 py-4 flex items-center justify-between">
