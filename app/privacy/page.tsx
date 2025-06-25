@@ -15,7 +15,7 @@ export default function PrivacyPolicyPage() {
               <Banana className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
             </div>
             <h1 className="text-lg sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Compressly
+              resizeimagefast
             </h1>
           </Link>
           <Button
@@ -104,11 +104,11 @@ export default function PrivacyPolicyPage() {
             </h2>
             <div className="prose prose-sm max-w-none dark:prose-invert">
               <p className="mb-4">
-                At Compressly, we believe privacy is a fundamental right. This Privacy Policy explains how we collect,
+                At resizeimagefast, we believe privacy is a fundamental right. This Privacy Policy explains how we collect,
                 use, and protect your information when you use our image compression service.
               </p>
               <p>
-                <strong>The short version:</strong> We've designed Compressly to be as privacy-friendly as possible.
+                <strong>The short version:</strong> We've designed resizeimagefast to be as privacy-friendly as possible.
                 Your images are processed entirely in your browser, never uploaded to our servers, and we collect
                 minimal data only to improve our service.
               </p>
@@ -165,7 +165,7 @@ export default function PrivacyPolicyPage() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Improve the performance and reliability of Compressly</span>
+                <span>Improve the performance and reliability of resizeimagefast</span>
               </li>
               <li className="flex items-start space-x-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
@@ -297,7 +297,7 @@ export default function PrivacyPolicyPage() {
               </li>
               <li className="flex items-start space-x-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Use Compressly without providing any personal information</span>
+                <span>Use resizeimagefast without providing any personal information</span>
               </li>
             </ul>
           </section>
@@ -320,7 +320,7 @@ export default function PrivacyPolicyPage() {
               </li>
               <li className="flex items-start space-x-3">
                 <div className="w-2 h-2 bg-purple-500 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Your continued use of Compressly constitutes acceptance of the updated policy</span>
+                <span>Your continued use of resizeimagefast constitutes acceptance of the updated policy</span>
               </li>
             </ul>
           </section>
@@ -358,7 +358,7 @@ export default function PrivacyPolicyPage() {
                 <div className="w-6 h-6 bg-gradient-to-br from-blue-500 to-purple-600 rounded flex items-center justify-center">
                 <Banana className="w-4 h-4 text-white" />
               </div>
-              <span className="font-semibold">Compressly</span>
+              <span className="font-semibold">resizeimagefast</span>
               </div>
               <div className="mt-2 text-sm text-muted-foreground max-w-md">
                 <span>Free, privacy-focused image compression that runs entirely in your browser. Reduce file sizes, resize images, and add watermarks without uploading anything.</span>
@@ -375,7 +375,7 @@ export default function PrivacyPolicyPage() {
           </div>
           <Separator className="my-4" />
           <p className="text-center text-sm text-muted-foreground">
-            © 2025 Compressly. Fast, free, and privacy-focused image compression.
+            © 2025 resizeimagefast. Fast, free, and privacy-focused image compression.
           </p>
         </div>
       </footer>

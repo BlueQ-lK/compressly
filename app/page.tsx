@@ -401,7 +401,7 @@ export default function CompresslyApp() {
                 <Banana className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
               </div>
               <h1 className="text-lg sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                Compressly
+                resizeimagefast
               </h1>
             </div>
             <div className="flex items-center space-x-1 sm:space-x-2">
@@ -437,7 +437,7 @@ export default function CompresslyApp() {
               <Banana className="w-5 h-5 text-white" />
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Compressly
+              resizeimagefast
             </h1>
           </div>
           <div className="flex items-center space-x-3">
@@ -1014,7 +1014,7 @@ export default function CompresslyApp() {
       {/* About Section */}
       <div className="mt-28 sm:mt-28 space-y-6" id="about">
           <div className="text-center">
-            <h2 className="text-xl sm:text-2xl font-bold mb-2">About Compressly</h2>
+            <h2 className="text-xl sm:text-2xl font-bold mb-2">About resizeimagefast</h2>
             <p className="text-muted-foreground text-sm sm:text-base max-w-2xl mx-auto">
               Free, privacy-focused image compression that runs entirely in your browser. Reduce file sizes, resize
               images, and add watermarks without uploading anything.
@@ -1061,7 +1061,7 @@ export default function CompresslyApp() {
                 <div className="w-6 h-6 bg-gradient-to-br from-blue-500 to-purple-600 rounded flex items-center justify-center">
                 <Banana className="w-4 h-4 text-white" />
               </div>
-              <span className="font-semibold">Compressly</span>
+              <span className="font-semibold">resizeimagefast</span>
               </div>
               <div className="mt-2 text-sm text-muted-foreground max-w-md">
                 <span>Free, privacy-focused image compression that runs entirely in your browser. Reduce file sizes, resize images, and add watermarks without uploading anything.</span>
@@ -1078,7 +1078,7 @@ export default function CompresslyApp() {
           </div>
           <Separator className="my-4" />
           <p className="text-center text-sm text-muted-foreground">
-            © 2025 Compressly. Fast, free, and privacy-focused image compression.
+            © 2025 resizeimagefast. Fast, free, and privacy-focused image compression.
           </p>
         </div>
       </footer>

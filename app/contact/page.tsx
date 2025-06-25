@@ -60,7 +60,7 @@ export default function ContactPage() {
                 <Banana className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
               </div>
               <h1 className="text-lg sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                Compressly
+                resizeimagefast
               </h1>
             </Link>
           </div>
@@ -86,12 +86,12 @@ export default function ContactPage() {
 
             <Button
               asChild
-              aria-label="Go back to Compressly homepage"
-              title="Back to Compressly"
+              aria-label="Go back to resizeimagefast homepage"
+              title="Back to resizeimagefast"
             >
               <Link href="/" className="flex items-center">
                 <ArrowLeft className="w-4 h-4 mr-2" aria-hidden="true" />
-                Back to Compressly
+                Back to resizeimagefast
               </Link>
             </Button>
 
@@ -111,7 +111,7 @@ export default function ContactPage() {
               <Banana className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
             </div>
             <h1 className="text-lg sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Compressly
+              resizeimagefast
             </h1>
           </Link>
           <Button
@@ -134,7 +134,7 @@ export default function ContactPage() {
         <div className="text-center mb-12">
           <h1 className="text-3xl sm:text-4xl font-bold mb-4">Get in Touch</h1>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Have questions about Compressly? Need help with image compression? We're here to help!
+            Have questions about resizeimagefast? Need help with image compression? We're here to help!
           </p>
         </div>
 
@@ -256,7 +256,7 @@ export default function ContactPage() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div>
-                  <h4 className="font-semibold text-sm mb-1">Is Compressly really free?</h4>
+                  <h4 className="font-semibold text-sm mb-1">Is resizeimagefast really free?</h4>
                   <p className="text-xs text-muted-foreground">
                     Yes! All core features are completely free with no limits.
                   </p>
@@ -288,7 +288,7 @@ export default function ContactPage() {
                 <div className="w-6 h-6 bg-gradient-to-br from-blue-500 to-purple-600 rounded flex items-center justify-center">
                 <Banana className="w-4 h-4 text-white" />
               </div>
-              <span className="font-semibold">Compressly</span>
+              <span className="font-semibold">resizeimagefast</span>
               </div>
               <div className="mt-2 text-sm text-muted-foreground max-w-md">
                 <span>Free, privacy-focused image compression that runs entirely in your browser. Reduce file sizes, resize images, and add watermarks without uploading anything.</span>
@@ -305,7 +305,7 @@ export default function ContactPage() {
           </div>
           <Separator className="my-4" />
           <p className="text-center text-sm text-muted-foreground">
-            © 2025 Compressly. Fast, free, and privacy-focused image compression.
+            © 2025 resizeimagefast. Fast, free, and privacy-focused image compression.
           </p>
         </div>
       </footer>

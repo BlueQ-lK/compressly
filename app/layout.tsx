@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Compressly - Free Online Image Compressor",
+  title: "resizeimagefast - Free Online Image Compressor",
   description:
     "Fast, free, and privacy-focused image compression tool. Compress, resize, and convert images without uploading to servers.",
   icons: {
@@ -23,18 +23,18 @@ export const metadata: Metadata = {
     "compress image without losing quality"
   ],
   authors: [{ name: "codeNinjaBro" }],
-  creator: "Compressly Team",
+  creator: "resizeimagefast Team",
   openGraph: {
-    title: "Compressly — Free Online Image Compressor & Resizer",
+    title: "resizeimagefast — Free Online Image Compressor & Resizer",
     description: "Shrink images easily online without losing quality.",
     url: "",
-    siteName: "Compressly",
+    siteName: "resizeimagefast",
     images: [
       {
         url: "/favicon.png",
         width: 1200,
         height: 630,
-        alt: "Compressly - Image Optimization Tool"
+        alt: "resizeimagefast - Image Optimization Tool"
       }
     ],
     type: "website",
