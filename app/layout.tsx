@@ -56,7 +56,7 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
-      <GoogleAnalytics gaId="G-89KJF31WCY" />
+      <GoogleAnalytics gaId="G-D8YN60TND8" />
       </body>
     </html>
   )
