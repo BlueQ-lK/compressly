@@ -8,7 +8,7 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 export default function PrivacyPolicyPage() {
   return (
     <div className="min-h-screen bg-background">
-       <GoogleAnalytics gaId="G-D8YN60TND8" />
+       <GoogleAnalytics gaId="G-89KJF31WCY" />
       {/* Header */}
       <header className="border-b">
         <div className="container mx-auto px-10 py-4 flex items-center justify-between">

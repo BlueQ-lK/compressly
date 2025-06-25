@@ -52,7 +52,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <GoogleAnalytics gaId="G-D8YN60TND8" />
+      <GoogleAnalytics gaId="G-89KJF31WCY" />
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
