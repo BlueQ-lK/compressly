@@ -23,4 +23,4 @@ A lightweight web tool to compress, resize, watermark, and optimize images direc
 
 ## 🔗 Links
 
-- 🔴 Live Demo: [resizeimagefast.vercel.app](https://resizeimagefast.vercel.app)
+
